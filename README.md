@@ -5,7 +5,7 @@ A Shorthand story about the residents of Mashimoni, Kibera: a community living r
 
 ### Analytics
 
-For all shorthand stories included, the following analytics trackers should be added after update in the `index.html` file.
+After updating, all shorthand stories should add the following analytics trackers in the `index.html` file.
 
 ```
   <!-- HuffPost.ZA Trackers -->
